@@ -11,3 +11,4 @@ Project List
 - [ ] Learning App - Sends an article or piece of news every day on topic of choice (web-scraping)
 - [ ] Music Suggestion - Analyze preferred music based on history and suggest new songs (Machine Learning, data capture)
 - [ ] Expense Tracker and Reporter - Reports on Expense weekly with reports and recommendations (Native Mobile App)
+- [ ] Travelling salesman problem with increased complexity: x number of trucks, y number of houses, z number of airports, each airport limited number of uses. Find fastest way of covering all houses from origin location. Each airport is able to almost instantaneously transport truck across to any other airport.
