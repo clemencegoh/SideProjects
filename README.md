@@ -5,7 +5,7 @@ Also acts as a todo to remind myself of current progress
 
 Project List
 ---
-- [ ] Revamp Portfolio site (html/css/js)
+- [x] Revamp Portfolio site (html/css/js) <b>[Done, for zhimin]</b>
 - [ ] Lunch Place Picker (web-scraping/location tracking)
 - [ ] Date Location Picker/Planner (Web-scraping/location tracking)
 - [ ] Learning App - Sends an article or piece of news every day on topic of choice (web-scraping)
