@@ -70,3 +70,7 @@
 - *what is pivotal?*
     - pivotal platform is a service:
         - unified, multi-cloud platform
+- *Github for learning*: https://github.com/openshift-labs/learn-katacoda
+- *Presentation for learning*: https://docs.google.com/presentation/d/1S-JqLQ4jatHwEBRUQRiA5WOuCwpTUnxl2d1qRUoTz5g/edit#slide=id.g2065a112e4_1_36
+- *Learning from IBM*: https://developer.ibm.com/
+- 
