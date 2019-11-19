@@ -5,6 +5,7 @@
 * Jenkins (webhooks and automation)
 * Docker (Images and server)
 * Kubernetes (Deployment and management of containers)
+* KNative (*Note that this is an alternative for Jenkins*)
 
 ## Overview of tech stack:
 - ![devops lifecycle using jenkins, docker and kubernetes](files/devops_full_lifecycle.png)
