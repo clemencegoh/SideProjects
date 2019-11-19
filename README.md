@@ -3,6 +3,8 @@ A collection of side projects with links to the individual repo
 
 Also acts as a todo to remind myself of current progress
 
+- [ ] Install SonarLint (For best practices)
+
 Project List
 ---
 - [x] Revamp Portfolio site (html/css/js) <b>[Done, for zhimin]</b>
