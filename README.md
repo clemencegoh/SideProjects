@@ -17,6 +17,7 @@ Project List
 - [ ] Stocks prediction using NLP and reinforcement learning
     * Could be useful: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/lectures/lecture16-guest.pdf
 - [ ] React Native Hybrid app acting as wrapper for all personal projects linking to microservices 
+- [ ] IRL Tracker app for stats with test methods to improve stats
 
 
 Technologies List
